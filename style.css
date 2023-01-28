@@ -7,7 +7,7 @@ body{
     margin-left: 20px;
     font-family: 'Pacifico', cursive;
 }
-#timer{
+#time{
     font-size: 30px;
     margin-right: 20px;
     float:right;
@@ -21,7 +21,7 @@ h1{
     float:right;
     font-size:18px;
 }
-#your_sketch , #confidence , #sketch_drawn{
+#label , #confidence , #sketch_name{
     font-size:30px;
     font-family: 'Sevillana', cursive;
 }
